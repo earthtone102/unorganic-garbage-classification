@@ -1,0 +1,28 @@
+D:\skripsi\skripsi\skripsi\bin\Debug\skripsi.exe.config
+D:\skripsi\skripsi\skripsi\bin\Debug\skripsi.exe
+D:\skripsi\skripsi\skripsi\bin\Debug\skripsi.pdb
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.csprojResolveAssemblyReference.cache
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.menu_awal.resources
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.menu_input.resources
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.Properties.Resources.resources
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.csproj.GenerateResource.Cache
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.exe
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.pdb
+D:\skripsi\skripsi\skripsi\obj\Debug\skripsi.menu_hasil.resources
+D:\skripsi\program\skripsi\bin\Debug\skripsi.exe.config
+D:\skripsi\program\skripsi\obj\Debug\skripsi.exe
+D:\skripsi\program\skripsi\obj\Debug\skripsi.pdb
+D:\skripsi\program\skripsi\bin\Debug\skripsi.exe
+D:\skripsi\program\skripsi\bin\Debug\skripsi.pdb
+D:\skripsi\program\skripsi\obj\Debug\skripsi.csprojResolveAssemblyReference.cache
+D:\skripsi\program\skripsi\obj\Debug\skripsi.menu_awal.resources
+D:\skripsi\program\skripsi\obj\Debug\skripsi.menu_hasil.resources
+D:\skripsi\program\skripsi\obj\Debug\skripsi.menu_input.resources
+D:\skripsi\program\skripsi\obj\Debug\skripsi.Properties.Resources.resources
+D:\skripsi\program\skripsi\obj\Debug\skripsi.csproj.GenerateResource.Cache
+D:\skripsi\tes\skripsi\bin\Debug\skripsi.exe.config
+D:\skripsi\tes\skripsi\obj\Debug\skripsi.exe
+D:\skripsi\tes\skripsi\obj\Debug\skripsi.pdb
+D:\Mikroskil\At least im graduate\Skripsi\Program\skripsi\bin\Debug\skripsi.exe.config
+D:\Mikroskil\At least im graduate\Skripsi\Program\skripsi\obj\Debug\skripsi.exe
+D:\Mikroskil\At least im graduate\Skripsi\Program\skripsi\obj\Debug\skripsi.pdb
